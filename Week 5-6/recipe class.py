@@ -36,7 +36,7 @@ for i in range(num):
     print(f"\nEnter details for Recipe {i+1}:")
     recipe_id = int(input("Enter recipe ID: "))
     name = input("Enter recipe name: ")
-    ingredients_input = input("Enter ingredients (comma-separated): ")
+    ingredients_input = input("Enter ingredients : ")
     ingredients = ingredients_input.split(",")  #
     for i in range(len(ingredients)):
         ingredients[i] = ingredients[i].strip()

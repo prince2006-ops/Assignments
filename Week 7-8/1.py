@@ -1,0 +1,11 @@
+import numpy as np
+arr=np.array([1,2,3,4,5])
+print("The matrix is",arr)
+total_sum=np.sum(arr)
+print("The total sum is",total_sum)
+avg=np.mean(arr)
+print("The average is",avg)
+max_value=np.max(arr)
+print("The max value is",max_value)
+min_value=np.min(arr)
+print("The lowest value is",min_value)

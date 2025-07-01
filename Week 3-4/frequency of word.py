@@ -3,9 +3,9 @@ def word_frequency(sentence):
     words=sentence.split() # making sentence to list
     frequency={}
     for word in words: #iterating the list  words
-        try:
+        if word in frequency:
             frequency[word] += 1 # checking the word in list
-        except KeyError:
+        else:
             frequency[word] = 1
     return frequency
 sentence_input=input("Enter the sentence")

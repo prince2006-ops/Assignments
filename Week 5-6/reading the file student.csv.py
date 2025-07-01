@@ -7,4 +7,4 @@ with open('student.csv','r') as file:
         print(f"Course:{row['course']}")
         print(f"Level:{row['level']}")
         print(f"Section:{row['section']}")
-        print("*************************")
+        print("-------------------------------------")

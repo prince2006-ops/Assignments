@@ -1,4 +1,4 @@
-class StudentDetails:
+class Student:
     def __init__(self,id,name,address,admission_year,level,section):
        self.id=id
        self.name=name
@@ -22,6 +22,6 @@ address = input("Enter Address: ")
 admission_year = input("Enter Admission Year: ")
 level = int(input("Enter Level: "))
 section = input("Enter Section: ")
-student_detail=StudentDetails(id, name, address, admission_year, level, section)
+student_detail=Student(id, name, address, admission_year, level, section)
 
 student_detail.display()

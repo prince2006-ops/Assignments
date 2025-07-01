@@ -1,0 +1,8 @@
+Date and Time:22025-07-01 18:46:00.984849
+Number_1=2
+Number_2=3
+Sum=5
+Difference=-1
+Product=6
+Division=0.6666666666666666
+*******************************
