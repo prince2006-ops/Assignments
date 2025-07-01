@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd115a99-8145-41d6-a9a8-112cf9cfbdac" name="Changes" comment="Completed Weekly task" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;prince2006-ops&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/prince2006-ops/FODS-2025.git&quot;,
+    &quot;accountId&quot;: &quot;aa12a188-321d-4a54-b19b-d2eec0b0a138&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/1.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2wsyBnc5ICvSRti5g68pE2PAN23" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book details.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Calculations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Card Picking game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Even Odd list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Even_Odd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Expression_solving.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Mathematical calculations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Percentage_calculation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.abc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basic_library management.executor&quot;: &quot;Run&quot;,
+    &quot;Python.city search in list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class and object of student.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.div by 7 and not multiple of 5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.employee_details.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial using function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.finding duplicates in list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.finding the occurance in list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.first.executor&quot;: &quot;Run&quot;,
+    &quot;Python.frequency of word.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function to perform calculation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list of name and sorting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number guess.executor&quot;: &quot;Run&quot;,
+    &quot;Python.performing calculation in file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pracctice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prime_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reading a file and writing it to another file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reading different field from  file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reading the file student.csv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recipe class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.separate functions for calculations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum of even odd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.writing different field in file.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/A Cyber Security/Sem-2 (Level -1)/FODS/Python work/Assignments/Week 2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\A Cyber Security\Sem-2 (Level -1)\FODS\Python work\Assignments\Week 2" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-dfff61a61320-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd115a99-8145-41d6-a9a8-112cf9cfbdac" name="Changes" comment="" />
+      <created>1746844443654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746844443654</updated>
+    </task>
+    <task id="LOCAL-00001" summary="&quot;Added&quot;">
+      <option name="closed" value="true" />
+      <created>1749644702229</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749644702229</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Completed Weekly task">
+      <option name="closed" value="true" />
+      <created>1751381399086</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751381399086</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Added&quot;" />
+    <MESSAGE value="Completed Weekly task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Weekly task" />
+  </component>
+</project>
